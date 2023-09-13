@@ -33,7 +33,7 @@ Before you begin, make sure you have the following prerequisites installed:
 
 1. To invoke the deployed Lambda function, use the following command:
    ```bash
-   serverless invoke -f hello
+   npm run invoke
    ```
 
 ## Clean Up
